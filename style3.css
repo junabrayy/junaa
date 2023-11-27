@@ -1,0 +1,18 @@
+body {
+    margin: 10vh 5vw;
+}
+
+.cont1 {
+    flex: 2;
+}
+
+img {
+    height: 9vw;
+    margin: 10px;
+}
+
+.item1 img {
+    width: 310px;
+    height: 180px;
+    margin-right: 10px;
+}
